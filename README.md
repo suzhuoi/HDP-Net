@@ -17,14 +17,14 @@ Run the python file <code>HDP-Net_test.py</code> with the code like <code>python
 <img src="https://github.com/nicholasly/HDP-Net/blob/master/img/01.jpg" width="250px" height="280px" align=left />
 <img src="https://github.com/nicholasly/HDP-Net/blob/master/result/Dehaze_01.jpg" width="250px" height="280px" align=right/>
 
-<img src="https://github.com/nicholasly/HDP-Net/blob/master/img/02.bmp" width="280px" height="220px" align=left />
-<img src="https://github.com/nicholasly/HDP-Net/blob/master/result/Dehaze_02.bmp" width="280px" height="220px" align=right/>
+<img src="https://github.com/nicholasly/HDP-Net/blob/master/img/02.bmp" width="280px" height="200px" align=left />
+<img src="https://github.com/nicholasly/HDP-Net/blob/master/result/Dehaze_02.bmp" width="280px" height="200px" align=right/>
 
 <img src="https://github.com/nicholasly/HDP-Net/blob/master/img/03.jpeg" width="250px" height="280px" align=left />
 <img src="https://github.com/nicholasly/HDP-Net/blob/master/result/Dehaze_03.jpeg" width="250px" height="280px" align=right/>
 
-<img src="https://github.com/nicholasly/HDP-Net/blob/master/img/04.bmp" width="280px" height="220px" align=left />
-<img src="https://github.com/nicholasly/HDP-Net/blob/master/result/Dehaze_04.jpg" width="280px" height="220px" align=right/>
+<img src="https://github.com/nicholasly/HDP-Net/blob/master/img/04.bmp" width="280px" height="200px" align=left />
+<img src="https://github.com/nicholasly/HDP-Net/blob/master/result/Dehaze_04.jpg" width="280px" height="200px" align=right/>
 
-<img src="https://github.com/nicholasly/HDP-Net/blob/master/img/05.bmp" width="280px" height="220px" align=left />
-<img src="https://github.com/nicholasly/HDP-Net/blob/master/result/Dehaze_05.bmp" width="280px" height="220px" align=right/>
+<img src="https://github.com/nicholasly/HDP-Net/blob/master/img/05.bmp" width="280px" height="200px" align=left />
+<img src="https://github.com/nicholasly/HDP-Net/blob/master/result/Dehaze_05.bmp" width="280px" height="200px" align=right/>
