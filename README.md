@@ -1,14 +1,15 @@
 # HDP-Net: Haze Density Prediction for Nighttime Dehazing
-Yinghong Liao, Zhuo Su, Xiangguo Liang, and Bin Qiu
+Yinghong Liao, Zhuo Su, Xiangguo Liang, and Bin Qiu 
 
-Released in 24/05/2018. The test codes are partly based on DehazeNet https://github.com/zlinker/DehazeNet.
-# Requirement
-Caffe http://caffe.berkeleyvision.org/
+Released in 24/05/2018. The test codes are partly based on [DehazeNet](https://github.com/zlinker/DehazeNet.)
 
-OpenCV https://opencv.org/
+# Environment Requirement
+[Caffe](https://github.com/BVLC/caffe)
+
+[OpenCV](https://opencv.org/)
 
 # Description
-This is a test implementation for paper: HDP-Net: Haze Density Prediction for Nighttime Dehazing. Here we provide the testing demo.
+This is a test implementation for paper: HDP-Net: Haze Density Prediction for Nighttime Dehazing. Here we provide the test demo.
 
 # Usage
 Run the python file <code>HDP-Net_test.py</code> with the code like <code>python HDP-Net_test.py img/*.jpg</code> in command. 
