@@ -1,7 +1,7 @@
 # HDP-Net: Haze Density Prediction for Nighttime Dehazing
 Yinghong Liao, Zhuo Su, Xiangguo Liang, and Bin Qiu 
 
-Released in 24/05/2018. The test codes are partly based on [DehazeNet](https://github.com/zlinker/DehazeNet.)
+Released in 24/05/2018. The test codes are partly based on [DehazeNet](https://github.com/zlinker/DehazeNet).
 
 # Environment Requirement
 [Caffe](https://github.com/BVLC/caffe)
