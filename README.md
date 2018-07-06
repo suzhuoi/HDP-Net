@@ -33,8 +33,8 @@ Run the python file <code>HDP-Net_test.py</code> with the code like <code>python
 # Cite:
 
     @Inproceedings{Liao2018HDP,
-    title={HDP-Net: Haze Density Prediction Network for Nighttime Dehazing},
-    author={Liao, Yinghong and Su, Zhuo and Liang, Xiangguo and Qiu, Bin},
-    booktitle={Pacific Rim Conference on Multimedia},
-    year={2018}
+       title={HDP-Net: Haze Density Prediction Network for Nighttime Dehazing},
+       author={Liao, Yinghong and Su, Zhuo and Liang, Xiangguo and Qiu, Bin},
+       booktitle={Pacific Rim Conference on Multimedia},
+       year={2018}
     }
