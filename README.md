@@ -30,7 +30,7 @@ Run the python file <code>HDP-Net_test.py</code> with the code like <code>python
 <img src="https://github.com/nicholasly/HDP-Net/blob/master/img/05.bmp" width="280px" height="180px" align=left />
 <img src="https://github.com/nicholasly/HDP-Net/blob/master/result/Dehaze_05.bmp" width="280px" height="180px" align=right/>
 
-# Cite:
+# Cite
 
     @Inproceedings{Liao2018HDP,
        title={HDP-Net: Haze Density Prediction Network for Nighttime Dehazing},
